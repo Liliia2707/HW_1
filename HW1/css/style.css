@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+   background-color:rgb(225, 232, 247);
+   }
+h1 {
+    margin: 30px 15px 40px ;
+}
+p {
+    border: solid#34495E;
+    padding: 21px 65px;
+    margin: 15px;
+    background-color: #34495E;
+    border-radius: 20px;
+    color: rgb(249, 250, 252);
+
+}
